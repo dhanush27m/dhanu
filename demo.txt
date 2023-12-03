@@ -1,1 +1,1 @@
-type in github
+typed in local system notepad
